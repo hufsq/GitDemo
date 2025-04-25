@@ -1,5 +1,5 @@
 # 加持良治的自我介绍
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="200" alt="章鱼哥形象">
+<img src="https://github.com/hufsq/GitDemo/blob/main/image/cy.jpg" width="200" alt="章鱼哥形象">
 大家好，我是**成毅**，我的身份是*演员*。以下是我的自我介绍：
 
 ---
