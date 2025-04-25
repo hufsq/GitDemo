@@ -42,7 +42,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-[![截图一](images/01.png "截图一")](https://github.com/dalao6/Jiang_POP/blob/main/images/01.png)
+[![截图一](images/01.png "截图一")](https://github.com/hufsq/GitDemo/blob/main/image/%E7%8E%AF%E5%A2%83.png)
 
 ### 我可以在IDE上使用我建立的虚拟环境
-[![截图二](images/02.png "截图二")](https://github.com/dalao6/Jiang_POP/blob/main/images/02.png)
+[![截图二](images/02.png "截图二")](https://github.com/hufsq/GitDemo/blob/main/image/%E7%8E%AF%E5%A2%83.png)
