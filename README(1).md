@@ -1,4 +1,4 @@
-# 加持良治的自我介绍
+# 成毅的自我介绍
 <img src="https://github.com/hufsq/GitDemo/blob/main/image/cy.jpg" width="200" alt="章鱼哥形象">
 大家好，我是**成毅**，我的身份是*演员*。以下是我的自我介绍：
 
@@ -42,7 +42,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-[![截图一](images/01.png "截图一")](https://github.com/hufsq/GitDemo/blob/main/image/%E7%8E%AF%E5%A2%83.png)
+[![截图一](images/01.png "截图一")](https://github.com/hufsq/GitDemo/blob/main/image/%E8%AE%AD%E7%BB%83.png)
 
 ### 我可以在IDE上使用我建立的虚拟环境
 [![截图二](images/02.png "截图二")](https://github.com/hufsq/GitDemo/blob/main/image/%E7%8E%AF%E5%A2%83.png)
